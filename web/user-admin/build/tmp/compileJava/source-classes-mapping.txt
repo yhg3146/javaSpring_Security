@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+com/sp/fc/web/controller/HomeController.java
+ com.sp.fc.web.controller.HomeController
+com/sp/fc/web/controller/YouCannotAccessUserPage.java
+ com.sp.fc.web.controller.YouCannotAccessUserPage
+=======
+com/sp/fc/web/controller/YouCannotAccessUserPage.java
+ com.sp.fc.web.controller.YouCannotAccessUserPage
+com/sp/fc/web/controller/HomeController.java
+ com.sp.fc.web.controller.HomeController
+>>>>>>> 78788ae22eccf611607554ca685cebd2e2e28fd5

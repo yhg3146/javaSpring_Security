@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sp-fastcampus-spring-sec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sp_fastcampus_spring_sec_jar</output-path>
+    <root id="archive" name="sp-fastcampus-spring-sec.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/server/authority-acl/build/generated/sources/annotationProcessor/java/main/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
